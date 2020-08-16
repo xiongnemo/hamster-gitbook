@@ -15,8 +15,16 @@
 声音好听
 ```
 
-那天下午，仓鼠说：
+那天下午，他说：
 
 ```reStructuredText
 啥是LOLI配信
+```
+
+晚上，他又说：
+
+```reStructuredText
+好
+推了
+awsl
 ```
